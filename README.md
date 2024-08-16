@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm Nizar, Mobile Software Architect (Java | Kotlin | Flutter) 
+## I'm Nizar, Mobile Software Architect
 
 ### To connect with me :
 
