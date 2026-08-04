@@ -87,7 +87,7 @@ Passionate about building modern, scalable, and high-performance mobile applicat
 <p align="center">
 
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=NizarETH)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=NizarETH)]
 </p>
 
 ---
