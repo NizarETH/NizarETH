@@ -86,7 +86,7 @@ Passionate about building modern, scalable, and high-performance mobile applicat
 
 <p align="center">
 
-(https://github-stats-extended.vercel.app/api?username=NizarETH)](https://github.com/stats-organization/github-stats-extended)
+https://github-stats-extended.vercel.app/api?username=NizarETH
 
 </p>
 
