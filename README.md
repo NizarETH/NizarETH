@@ -86,9 +86,7 @@ Passionate about building modern, scalable, and high-performance mobile applicat
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NizarETH&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NizarETH&layout=compact&theme=github_dark&hide_border=true"/>
+(https://github-stats-extended.vercel.app/api?username=NizarETH)](https://github.com/stats-organization/github-stats-extended)
 
 </p>
 
@@ -114,4 +112,4 @@ Passionate about building modern, scalable, and high-performance mobile applicat
 © 2015–2026 Nizar ETH
 ```
 
-Cette version est plus moderne, plus lisible et correspond mieux aux attentes des recruteurs sur GitHub. Elle met davantage en valeur ton profil d'architecte mobile tout en restant sobre et professionnelle.
+
